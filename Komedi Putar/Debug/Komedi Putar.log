@@ -1,0 +1,6 @@
+﻿  Source.cpp
+e:\grafika komputer\komedi putar\komedi putar\source.cpp(1411): warning C4551: function call missing argument list
+e:\grafika komputer\komedi putar\komedi putar\source.cpp(1482): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+e:\grafika komputer\komedi putar\komedi putar\source.cpp(1424): warning C4101: 'gradian': unreferenced local variable
+  Komedi Putar.vcxproj -> E:\Grafika Komputer\Komedi Putar\Debug\Komedi Putar.exe
+  Komedi Putar.vcxproj -> E:\Grafika Komputer\Komedi Putar\Debug\Komedi Putar.pdb (Partial PDB)
